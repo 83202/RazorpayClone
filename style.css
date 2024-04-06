@@ -1,0 +1,8 @@
+#circle:hover #a{
+    background-image: linear-gradient(45deg, rgb(159, 227, 249), rgba(65, 154, 255, 0.529));
+    transition: all 500ms;
+}
+
+/* #circle:hover{
+    box-shadow: 3px 3px 10px #0000003f;
+} */
